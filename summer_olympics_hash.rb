@@ -27,5 +27,4 @@ end
 summer_olympics.each do |places, years|
     puts "The #{years} summer olympics took place in #{places.upcase}."
 
-puts iterate_through_keys
 end
